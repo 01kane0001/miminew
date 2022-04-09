@@ -7,7 +7,251 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6d59854-4642-4167-807a-e90bb7c1a6a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/src/test/java/com/bjpowernode/blog/test/TestBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/src/test/java/com/bjpowernode/blog/test/TestBlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/target/test-classes/com/bjpowernode/blog/test/TestBlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/target/test-classes/com/bjpowernode/blog/test/TestBlog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mimissm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/aspectjweaver-1.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/druid-1.1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/jackson-core-2.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/jackson-databind-2.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/json-20140107.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/jsqlparser-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/mybatis-3.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/mybatis-paginator-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/addproduct.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/err.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/regist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/admin/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/addBook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/bright.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/bzqd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/carshop_tj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/foot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_top1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_top2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_top3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/index_top4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/milogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/milogo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/mxdp_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/mxdp_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/mxdp_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/mxdp_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/mxdp_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/rightmenu9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/sbfw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmAir12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmAir13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmPad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmPro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmTV4-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmTV4-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmTV4-65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmTV4A-43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image/xmTV4A-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/12903ec8298046a39b43fb339569da0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/2557d5a816b94863a7a2f380fb388687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/33c944311f904ff98ea63ff8eddbdabc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/3c1c4296260f45b5b6acbe0e3f0649e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/493bfe861c04456484bbd07a44411c80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/778cc0b0436e4160a43460d4c35c59d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/dc425548c8164c4ca54595e4fcdfb348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmAir12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmAir13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmPad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmPro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmTV4-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmTV4-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmTV4-65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmTV4A-43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_big/xmTV4A-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/comment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/image_comm/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/imagecanshu/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/imagecanshu/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/imagecanshu/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/imagedetail/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/imagedetail/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/imagedetail/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/08056880d6ce4db6a063471ae71fc045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/317524aa81324690b8b34df7b2a71a9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/4ab3304a147545879c864f06e7cf7b59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/54941e9cb9a540ed9df0c8bd2ba59543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/5fd17930911f4a73ba7cf4597d7bcc03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/6086ebd4ca654d31980e944ec436aed6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/67bc18da3ae44fea8f08297b3e48c226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/6d520407fa0b488e985c62abd4c002b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/71552c4559df40559ff5f1bf62c480d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/761c647d4ec240a69531b5588323fa13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/84fac438d6104665bfe951ce78470c11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/8e06ae695f544dffa28be97ab4304094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/a1c9f14c85e3428e965033341b047d0d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/a3063f5ac16f4ec78b93baccd5c3184c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/a92fc4b832e74635a775ce874d601797.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/b408c86f726148dda9377ee4b8c05b60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/b823ebfe929d4f4e8f7524f16c2a5d88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/bzqd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/c428c9988906406280eab76b7c0f9d75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/carshop_tj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/cc4e866276f6416485b2d0ba5fd87c32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/cce20331985b434492dbe4a7d31e6e1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/cloud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/dc05bc831f084d4bbc9f3a5936f93c75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/dc49adecce6b4e07a900be8bb298c257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/f202f5cec26d4f7292d4958521a6d3ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/f9f55bb158554c5083cac091c98b335d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/foot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_top1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_top2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_top3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/index_top4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/milogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/milogo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/mxdp_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/mxdp_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/mxdp_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/mxdp_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/mxdp_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/rightmenu9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/sbfw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmAir12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmAir13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmPad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmPro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmTV4-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmTV4-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmTV4-65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmTV4A-43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/images/xmTV4A-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/ajaxfileupload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/jquery-1.8.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/myjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimissm/target/mimissm-1.0/js/npm.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +261,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/AdminAction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -79,10 +323,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1038" />
+    <option name="width" value="1554" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,8 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,6 +378,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,32 +493,25 @@
       <option name="presentableId" value="Default" />
       <updated>1649494410210</updated>
       <workItem from="1649494412889" duration="995000" />
+      <workItem from="1649504372101" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="995000" />
+    <option name="totallyTimeSpent" value="1037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24784054" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2511628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32892805" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.49192363" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -284,15 +519,24 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.32956812" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32892805" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.49192363" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24983388" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32956812" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +550,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/AdminAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>

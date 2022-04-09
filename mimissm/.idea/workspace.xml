@@ -6,7 +6,253 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57e4520-b539-48f9-85cb-8bf52511579f" name="Default Changelist" comment="" />
+    <list default="true" id="b57e4520-b539-48f9-85cb-8bf52511579f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../04_project/mimissm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_project/mimissm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/test/java/com/bjpowernode/blog/test/TestBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/test/java/com/bjpowernode/blog/test/TestBlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/target/test-classes/com/bjpowernode/blog/test/TestBlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/target/test-classes/com/bjpowernode/blog/test/TestBlog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/aspectjweaver-1.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/druid-1.1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/jackson-core-2.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/jackson-databind-2.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/json-20140107.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/jsqlparser-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/mybatis-3.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/mybatis-paginator-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/WEB-INF/lib/mybatis-spring-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/addproduct.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/err.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/regist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/admin/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/addBook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/bright.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/bzqd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/carshop_tj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/foot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_top1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_top2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_top3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/index_top4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/milogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/milogo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/mxdp_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/mxdp_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/mxdp_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/mxdp_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/mxdp_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/rightmenu9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/sbfw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmAir12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmAir13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmPad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmPro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmTV4-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmTV4-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmTV4-65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmTV4A-43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image/xmTV4A-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/12903ec8298046a39b43fb339569da0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/2557d5a816b94863a7a2f380fb388687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/33c944311f904ff98ea63ff8eddbdabc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/3c1c4296260f45b5b6acbe0e3f0649e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/493bfe861c04456484bbd07a44411c80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/778cc0b0436e4160a43460d4c35c59d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/dc425548c8164c4ca54595e4fcdfb348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmAir12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmAir13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmPad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmPro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmTV4-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmTV4-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmTV4-65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmTV4A-43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_big/xmTV4A-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/comment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/image_comm/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/imagecanshu/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/imagecanshu/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/imagecanshu/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/imagedetail/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/imagedetail/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/imagedetail/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/08056880d6ce4db6a063471ae71fc045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/317524aa81324690b8b34df7b2a71a9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/4ab3304a147545879c864f06e7cf7b59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/54941e9cb9a540ed9df0c8bd2ba59543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/5fd17930911f4a73ba7cf4597d7bcc03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/6086ebd4ca654d31980e944ec436aed6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/67bc18da3ae44fea8f08297b3e48c226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/6d520407fa0b488e985c62abd4c002b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/71552c4559df40559ff5f1bf62c480d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/761c647d4ec240a69531b5588323fa13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/84fac438d6104665bfe951ce78470c11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/8e06ae695f544dffa28be97ab4304094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/a1c9f14c85e3428e965033341b047d0d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/a3063f5ac16f4ec78b93baccd5c3184c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/a92fc4b832e74635a775ce874d601797.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/b408c86f726148dda9377ee4b8c05b60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/b823ebfe929d4f4e8f7524f16c2a5d88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/bzqd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/c428c9988906406280eab76b7c0f9d75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/carshop_tj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/cc4e866276f6416485b2d0ba5fd87c32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/cce20331985b434492dbe4a7d31e6e1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/cloud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/dc05bc831f084d4bbc9f3a5936f93c75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/dc49adecce6b4e07a900be8bb298c257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/f202f5cec26d4f7292d4958521a6d3ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/f9f55bb158554c5083cac091c98b335d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/foot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/hm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/hm4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/hmNote4X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/hmNote5A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_top1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_top2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_top3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/index_top4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/milogo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/milogo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/mxdp_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/mxdp_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/mxdp_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/mxdp_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/mxdp_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/register.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/rightmenu9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/sbfw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xm5X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xm6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmAir12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmAir13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmMAX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmMIX2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmNote2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmNote3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmPad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmPro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmTV4-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmTV4-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmTV4-65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmTV4A-43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/images/xmTV4A-49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/ajaxfileupload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/jquery-1.8.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/myjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mimissm-1.0/js/npm.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,38 +263,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/ProductInfoServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="165">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/ProductTypeMapper.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/ProductTypeMapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/ProductInfoMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/AdminMapper.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/AdminServiceImpl.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext_service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="540">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -63,33 +308,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/AdminMapper.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/AdminAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/ProductInfoServiceImpl.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/ProductInfoAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="193">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/AdminMapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/ProductInfoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/ProductInfoExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/vo/ProductInfoVo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/ProductTypeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="60">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -112,16 +370,20 @@
       <find>xmorder</find>
       <find>@Table</find>
       <find>name</find>
+      <find>aop</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/ProductInfoAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/vo/ProductInfoVo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/ProductInfoAction.java" />
       </list>
     </option>
   </component>
@@ -158,16 +420,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1929" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,27 +509,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mimissm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mimissm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mimissm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mimissm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bjpowernode" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mimissm" type="b2602c69:ProjectViewProjectNode" />
@@ -289,26 +534,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mimissm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mimissm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635610523972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649504405346" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -422,11 +657,21 @@
       <workItem from="1635673310609" duration="3721000" />
       <workItem from="1635862512865" duration="5529000" />
       <workItem from="1637943131330" duration="2640000" />
+      <workItem from="1649495838073" duration="2122000" />
+      <workItem from="1649504431959" duration="59000" />
     </task>
+    <task id="LOCAL-00001" summary="删除不必要的文件">
+      <created>1649495925631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649495925631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22498000" />
+    <option name="totallyTimeSpent" value="24679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,10 +683,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1562" height="837" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1563" height="837" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2606383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26710963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -457,11 +701,11 @@
       <window_info anchor="bottom" id="Messages" order="5" weight="0.3289855" />
       <window_info anchor="bottom" id="Java Enterprise" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.40088105" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
       <window_info anchor="bottom" id="Run" order="11" weight="0.48901904" />
-      <window_info active="true" anchor="bottom" id="Debug" order="12" visible="true" weight="0.40029326" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.5624082" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="15" weight="0.3289855" />
@@ -478,6 +722,50 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除不必要的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除不必要的文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -524,6 +812,12 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/AdminServiceImpl.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -542,13 +836,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext_service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/repositoryxiaomi/org/springframework/spring-tx/5.2.5.RELEASE/spring-tx-5.2.5.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -594,20 +881,6 @@
     <entry file="file://$PROJECT_DIR$/target/classes/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/product.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -615,38 +888,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/AdminAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/Admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/AdminExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/ProductInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-275">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/ProductInfoExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -678,27 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/ProductInfoAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
@@ -725,7 +949,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="480">
           <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
@@ -743,16 +967,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/ProductInfoMapper.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/ProductInfoMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/AdminMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/AdminMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -762,22 +976,168 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/vo/ProductInfoVo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="780">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/ProductInfoServiceImpl.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="74">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/AdminExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#9373#9374#0" expanded="true" />
+            <element signature="e#9404#9405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_291/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/AdminServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="-130">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2362">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/impl/ProductInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext_service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/mapper/ProductInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/AdminAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/ProductInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/pojo/ProductInfoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/service/ProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/controller/ProductInfoAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>

@@ -11,6 +11,8 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.List;
 
+import static com.bjpowernode.blog.base.util.MD5Util.getMD5;
+
 /**
  * Company :  北京动力节点
  * Author :   Andy
@@ -75,6 +77,15 @@ public class TestBlog {
         example.createCriteria().
                 andGreaterThanOrEqualTo("aid", "70");
         articleMapper.deleteByExample(example);
+    }
+    @Test
+    public void getM5(){
+        System.out.println(getMD5("12345678"));//25d55ad283aa400af464c76d713c07ad
+        System.out.println(getMD5("123456"));//e10adc3949ba59abbe56e057f20f883e
+        System.out.println(getMD5("12345qwert"));//b1ef741bee14a29acbe5686f59b62569
+        System.out.println(getMD5("root"));//63a9f0ea7bb98050796b649e85481845
+        System.out.println(getMD5("!QAZ2wsx"));//a1e0476879cab2a76cc22c80bbf364dd
+        System.out.println(getMD5("12345qwerty"));
     }
 
     //测试查询
